@@ -3,5 +3,7 @@
 
 
 class Square:
-    """class Square that defines a square"""    
+    """
+    Defines a Square and its basic properties
+    """
     pass
