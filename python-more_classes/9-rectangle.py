@@ -1,16 +1,5 @@
 #!/usr/bin/python3i
-"""calculates and return the area of the rectangle
-"""
-
-'''
-File_name: 9-rectangle.py
-Created: 30-OCT-2023
-Author: UMUTONI Kevine (simplykevine)
-Size: undefined
-Project: 0x08-python-more_classes
-Status: not yet submitted.
-'''
-
+"""calculates and return the area of the rectangle """
 
 class Rectangle:
     """

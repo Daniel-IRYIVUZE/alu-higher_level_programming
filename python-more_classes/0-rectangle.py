@@ -2,16 +2,6 @@
 """ empty class function that defines a Rectangle
 """
 
-'''
-File_name: 0-rectangle.py
-Created: 5-OCT-2023
-Author: UMUTONI Kevine (simplykevine)
-Size: Large
-Project: 0x08-python-more_classes
-Status: Not yet submitted.
-'''
-
-
 class Rectangle:
     """
     # Write an empty class Rectangle that defines a rectangle:

@@ -1,18 +1,6 @@
 #!/usr/bin/python3i
 """calculates and return the area of the rectangle
 """
-
-
-'''
-File_name: 7-rectangle.py
-Created: 30-OCT-2023
-Auth: UMUTONI Kevine (simplykevine)
-Size: Large
-Project: 0x08-python-more_classes
-Status: not yet submitted
-'''
-
-
 class Rectangle:
     """
     # Write a class Rectangle that defines a rectangle by:

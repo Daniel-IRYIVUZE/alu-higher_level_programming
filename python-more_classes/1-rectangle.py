@@ -1,15 +1,5 @@
 #!/usr/bin/python3
-""" a module that defines a rectangle
-"""
-
-'''
-File_name: 1-rectangle.py
-Created: 30-OCT-2023
-Author:UMUTONI Kevine(simplykevine)
-Size: large
-Project: 0x08-python-more_classes
-Status: been submitted.
-'''
+""" a module that defines a rectangle """
 
 
 class Rectangle:

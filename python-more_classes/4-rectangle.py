@@ -1,13 +1,5 @@
 #!/usr/bin/python3
 """Defines a Rectangle class."""
-'''
-File_name: 0-rectangle.py
-Created: 5-OCT-2023
-Author: UMUTONI Kevine (simplykevine)
-Size: Large
-Project: 0x08-python-more_classes
-Status: Not yet submitted.
-'''
 
 class Rectangle:
     """Represent a rectangle."""

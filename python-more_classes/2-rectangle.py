@@ -2,16 +2,6 @@
 """ calculates and return the area of the rectangle
 """
 
-'''
-File_name: 2-rectangle.py
-Created: 30-OCT-2023
-Author:UMUTONI Kevine (simplykevine)
-Size: large
-Project: 0x08-python-more_classes
-Status: not yet submitted
-'''
-
-
 class Rectangle:
     """
     # Write a class Rectangle that defines a rectangle by:
