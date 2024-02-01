@@ -1,3 +1,1 @@
-# javascript
-## author
-loue Sauveur Christian
+JavaScript - Warm up
